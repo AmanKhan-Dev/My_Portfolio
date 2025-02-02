@@ -53,7 +53,7 @@ the Microsoft homepage, developed using PHP, HTML, CSS, JavaScript, and MySQL."
               title="Quiz Application"
               description="This is an interactive quiz application with gamification features using the React Vite project. This application fetches quiz data from an API and presents it with an engaging user interface. Taking inspiration from Testline App, it allows seamless attempts at quizzes and displays their scores."
               ghLink="https://github.com/AmanKhan-Dev/Quiz_Application_Insp"
-              demoLink="https://editor.soumya-jit.tech/"              
+              demoLink="https://github.com/AmanKhan-Dev/Quiz_Application_Insp"              
             />
           </Col>
 
