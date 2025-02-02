@@ -27,7 +27,10 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "go-install": "go get -u golang.org/dl/go1.19 && go1.19 download",
+    "go-build": "go build",
+    "go-run": "go run main.go"
   },
   "eslintConfig": {
     "extends": [
